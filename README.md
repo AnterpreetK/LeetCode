@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnterpreetK/LeetCode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
