@@ -18,10 +18,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
