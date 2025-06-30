@@ -4,11 +4,11 @@ class Solution {
 
         Arrays.sort(nums);
 
-        for (int i = 0; i < nums.length - k + 1; ++i) {
-            // Calculate the difference between the last and the first element of the current subarray
-            int currlen = nums[i + k - 1] - nums[i];
-          
-            minlen = Math.min(minlen, currlen);
+        for(int l = 0, r = 0; r <nums.length; r++){
+            while(l<=r && r-l+1>k){
+                l++;
+            }
+            if(r-l+1 == k) minlen = Math.min(minlen, nums[r] - nums[l]);
         }
         return minlen;
     }
