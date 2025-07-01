@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnterpreetK/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnterpreetK/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AnterpreetK/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnterpreetK/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AnterpreetK/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
