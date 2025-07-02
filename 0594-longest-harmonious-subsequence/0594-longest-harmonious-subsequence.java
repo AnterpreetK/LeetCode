@@ -2,16 +2,12 @@ class Solution {
     public int findLHS(int[] nums) {
         Arrays.sort(nums);
 
-        int maxlen = 0;
-        int n = nums.length;
-        for(int left = 0, right = 0; right < n; right++){
-           while(nums[right] - nums[left] > 1){
-            left++;
-           }
-           if(nums[right] - nums[left] == 1){
-            maxlen = Math.max(maxlen, right-left+1);
-           }        
+        int lhs = 0;
+        for(int  l = 0, r = 0; r < nums.length; r++){
+            while(nums[r] - nums[l] > 1) l++;
+
+            if(nums[r] - nums[l] == 1) lhs = Math.max(lhs, r-l+1);
         }
-        return maxlen;
+        return lhs;
     }
 }
