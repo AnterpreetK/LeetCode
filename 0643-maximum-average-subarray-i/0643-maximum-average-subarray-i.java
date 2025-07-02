@@ -1,16 +1,16 @@
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
         int sum = 0;
-        for(int i = 0; i < k; i++){
-            sum += nums[i];
-        }
-        int maxSum = sum;
-
-        for(int r=k; r<nums.length; r++){
+        double maxavg = Double.NEGATIVE_INFINITY;
+        for(int l = 0, r = 0; r < nums.length; r++){
             sum += nums[r];
-            sum -= nums[r-k];
-            maxSum = Math.max(maxSum, sum);
+            if(r-l+1 == k){
+                maxavg = Math.max(maxavg,(double)sum/k);
+                sum -= nums[l];
+                l++;
+            }
         }
-        return (double)maxSum/k; // the problem is asking for average not maxsum - maxsum/k (divided by k beacuse in each test case k would be different)
+        return maxavg;
     }
 }
+
