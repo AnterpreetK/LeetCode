@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnterpreetK/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/AnterpreetK/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Recursion
