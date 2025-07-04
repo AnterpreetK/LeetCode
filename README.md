@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/AnterpreetK/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AnterpreetK/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/AnterpreetK/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Binary Search
 |  |
 | ------- |
