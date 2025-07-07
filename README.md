@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -33,6 +34,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -51,6 +53,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnterpreetK/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AnterpreetK/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
