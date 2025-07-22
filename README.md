@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnterpreetK/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -102,5 +103,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnterpreetK/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
