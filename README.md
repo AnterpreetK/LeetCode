@@ -77,6 +77,7 @@
 | [0013-roman-to-integer](https://github.com/AnterpreetK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AnterpreetK/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnterpreetK/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1078-remove-outermost-parentheses](https://github.com/AnterpreetK/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AnterpreetK/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnterpreetK/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/AnterpreetK/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
