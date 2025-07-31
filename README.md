@@ -27,6 +27,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/AnterpreetK/LeetCode/tree/master/0682-baseball-game) |
 | [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -127,6 +128,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AnterpreetK/LeetCode/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/AnterpreetK/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -136,6 +138,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AnterpreetK/LeetCode/tree/master/0682-baseball-game) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AnterpreetK/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AnterpreetK/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
