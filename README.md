@@ -32,6 +32,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AnterpreetK/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AnterpreetK/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Sliding Window
 |  |
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/AnterpreetK/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AnterpreetK/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AnterpreetK/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
