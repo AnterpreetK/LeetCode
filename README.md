@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0575-distribute-candies](https://github.com/AnterpreetK/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AnterpreetK/LeetCode/tree/master/0682-baseball-game) |
@@ -67,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnterpreetK/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0575-distribute-candies](https://github.com/AnterpreetK/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
