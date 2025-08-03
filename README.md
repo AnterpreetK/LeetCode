@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/AnterpreetK/LeetCode/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AnterpreetK/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AnterpreetK/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
