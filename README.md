@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/AnterpreetK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2032-largest-odd-number-in-string](https://github.com/AnterpreetK/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AnterpreetK/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/AnterpreetK/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnterpreetK/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Divide and Conquer
 |  |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AnterpreetK/LeetCode/tree/master/0278-first-bad-version) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/AnterpreetK/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
