@@ -89,6 +89,7 @@
 | [0205-isomorphic-strings](https://github.com/AnterpreetK/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnterpreetK/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0812-rotate-string](https://github.com/AnterpreetK/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AnterpreetK/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/AnterpreetK/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AnterpreetK/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
