@@ -38,6 +38,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/AnterpreetK/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AnterpreetK/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AnterpreetK/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/AnterpreetK/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnterpreetK/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AnterpreetK/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/AnterpreetK/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AnterpreetK/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/AnterpreetK/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/AnterpreetK/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +143,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnterpreetK/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/AnterpreetK/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Stack
 |  |
 | ------- |
