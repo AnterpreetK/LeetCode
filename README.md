@@ -34,6 +34,7 @@
 | [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1249-snapshot-array](https://github.com/AnterpreetK/LeetCode/tree/master/1249-snapshot-array) |
 | [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AnterpreetK/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -65,6 +66,7 @@
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/AnterpreetK/LeetCode/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1249-snapshot-array](https://github.com/AnterpreetK/LeetCode/tree/master/1249-snapshot-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1249-snapshot-array](https://github.com/AnterpreetK/LeetCode/tree/master/1249-snapshot-array) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AnterpreetK/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AnterpreetK/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -178,4 +181,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AnterpreetK/LeetCode/tree/master/0812-rotate-string) |
+## Design
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/AnterpreetK/LeetCode/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
