@@ -30,6 +30,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AnterpreetK/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/AnterpreetK/LeetCode/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -124,6 +125,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AnterpreetK/LeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
