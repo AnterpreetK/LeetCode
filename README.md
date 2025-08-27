@@ -36,6 +36,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1249-snapshot-array](https://github.com/AnterpreetK/LeetCode/tree/master/1249-snapshot-array) |
 | [1755-defuse-the-bomb](https://github.com/AnterpreetK/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnterpreetK/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AnterpreetK/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AnterpreetK/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
