@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/AnterpreetK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AnterpreetK/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -29,6 +30,7 @@
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnterpreetK/LeetCode/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/AnterpreetK/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AnterpreetK/LeetCode/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1249-snapshot-array](https://github.com/AnterpreetK/LeetCode/tree/master/1249-snapshot-array) |
@@ -80,6 +83,7 @@
 | [0205-isomorphic-strings](https://github.com/AnterpreetK/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnterpreetK/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/AnterpreetK/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -115,6 +119,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AnterpreetK/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Counting
@@ -127,6 +132,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AnterpreetK/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
