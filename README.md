@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/AnterpreetK/LeetCode/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/AnterpreetK/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -144,6 +145,7 @@
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AnterpreetK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AnterpreetK/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
