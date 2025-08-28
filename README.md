@@ -12,6 +12,7 @@
 | [0009-palindrome-number](https://github.com/AnterpreetK/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnterpreetK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AnterpreetK/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -25,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnterpreetK/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/AnterpreetK/LeetCode/tree/master/0575-distribute-candies) |
@@ -141,6 +143,7 @@
 | [0027-remove-element](https://github.com/AnterpreetK/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AnterpreetK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
