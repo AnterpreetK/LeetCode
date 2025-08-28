@@ -26,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/AnterpreetK/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnterpreetK/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AnterpreetK/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnterpreetK/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
@@ -148,6 +150,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AnterpreetK/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnterpreetK/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AnterpreetK/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AnterpreetK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
