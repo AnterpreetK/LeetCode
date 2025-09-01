@@ -30,6 +30,7 @@
 | [0075-sort-colors](https://github.com/AnterpreetK/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AnterpreetK/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/AnterpreetK/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AnterpreetK/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [1873-longest-nice-substring](https://github.com/AnterpreetK/LeetCode/tree/master/1873-longest-nice-substring) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AnterpreetK/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
