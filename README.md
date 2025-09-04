@@ -14,6 +14,7 @@
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
+| [0909-stone-game](https://github.com/AnterpreetK/LeetCode/tree/master/0909-stone-game) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AnterpreetK/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AnterpreetK/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -44,6 +45,7 @@
 | [0682-baseball-game](https://github.com/AnterpreetK/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AnterpreetK/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/AnterpreetK/LeetCode/tree/master/0792-binary-search) |
+| [0909-stone-game](https://github.com/AnterpreetK/LeetCode/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -172,6 +174,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AnterpreetK/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/AnterpreetK/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0392-is-subsequence) |
+| [0909-stone-game](https://github.com/AnterpreetK/LeetCode/tree/master/0909-stone-game) |
 ## Trie
 |  |
 | ------- |
@@ -213,4 +216,8 @@
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/AnterpreetK/LeetCode/tree/master/1249-snapshot-array) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/AnterpreetK/LeetCode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
