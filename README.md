@@ -42,6 +42,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AnterpreetK/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AnterpreetK/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AnterpreetK/LeetCode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/AnterpreetK/LeetCode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/AnterpreetK/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -78,6 +79,7 @@
 | [0069-sqrtx](https://github.com/AnterpreetK/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AnterpreetK/LeetCode/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/AnterpreetK/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnterpreetK/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1249-snapshot-array](https://github.com/AnterpreetK/LeetCode/tree/master/1249-snapshot-array) |
 ## Hash Table
