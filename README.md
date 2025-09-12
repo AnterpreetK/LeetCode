@@ -96,6 +96,7 @@
 | [0205-isomorphic-strings](https://github.com/AnterpreetK/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/AnterpreetK/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnterpreetK/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/AnterpreetK/LeetCode/tree/master/0575-distribute-candies) |
@@ -116,6 +117,7 @@
 | [0058-length-of-last-word](https://github.com/AnterpreetK/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AnterpreetK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AnterpreetK/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AnterpreetK/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnterpreetK/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/AnterpreetK/LeetCode/tree/master/0812-rotate-string) |
@@ -148,6 +150,7 @@
 | [0075-sort-colors](https://github.com/AnterpreetK/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnterpreetK/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnterpreetK/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnterpreetK/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
