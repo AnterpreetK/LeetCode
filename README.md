@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/AnterpreetK/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnterpreetK/LeetCode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/AnterpreetK/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AnterpreetK/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AnterpreetK/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -93,6 +94,7 @@
 | [0001-two-sum](https://github.com/AnterpreetK/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnterpreetK/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnterpreetK/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/AnterpreetK/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/AnterpreetK/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -114,6 +116,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AnterpreetK/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AnterpreetK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AnterpreetK/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/AnterpreetK/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AnterpreetK/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AnterpreetK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AnterpreetK/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -147,6 +150,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AnterpreetK/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AnterpreetK/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
