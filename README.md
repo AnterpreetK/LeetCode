@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/AnterpreetK/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnterpreetK/LeetCode/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/AnterpreetK/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AnterpreetK/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AnterpreetK/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AnterpreetK/LeetCode/tree/master/0075-sort-colors) |
@@ -230,4 +231,8 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/AnterpreetK/LeetCode/tree/master/0909-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AnterpreetK/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
