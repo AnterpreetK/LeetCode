@@ -9,11 +9,12 @@ class Solution {
         return ans;
     }
 
-    void backtrack(int[] nums, List<List<Integer>> ans, boolean[] visited, List<Integer> curr){
+    static void backtrack(int[] nums, List<List<Integer>> ans, boolean[] visited, List<Integer> curr){
         if(curr.size() == nums.length){
             ans.add(new ArrayList<>(curr));
             return;
         }
+
         for(int i = 0; i < nums.length; i++){
             if(visited[i] == true) continue;
 
@@ -21,8 +22,8 @@ class Solution {
             visited[i] = true;
             backtrack(nums, ans, visited, curr);
 
-            curr.remove(curr.size()-1);
+            curr.remove(curr.size() - 1);
             visited[i] = false;
         }
-    }
+    } 
 }
