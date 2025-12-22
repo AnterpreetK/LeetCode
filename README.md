@@ -37,6 +37,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnterpreetK/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnterpreetK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AnterpreetK/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnterpreetK/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AnterpreetK/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnterpreetK/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnterpreetK/LeetCode/tree/master/0217-contains-duplicate) |
@@ -187,6 +188,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AnterpreetK/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AnterpreetK/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AnterpreetK/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnterpreetK/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AnterpreetK/LeetCode/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/AnterpreetK/LeetCode/tree/master/0909-stone-game) |
 ## Trie
