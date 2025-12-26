@@ -28,6 +28,6 @@ class Solution {
 
         if(Math.abs(left-right) > 1) return -1;
 
-        return 1 + Math.max(left, right);
+        return 1+Math.max(left, right);
     }
 }
