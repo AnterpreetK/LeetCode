@@ -4,7 +4,7 @@ class Solution {
         int minBuy = prices[0];
 
         for(int i : prices){
-            maxProfit = Math.max(maxProfit, i-minBuy);
+            maxProfit = Math.max(maxProfit, i - minBuy);
             minBuy = Math.min(minBuy, i);
         }
         return maxProfit;
